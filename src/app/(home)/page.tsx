@@ -1,8 +1,8 @@
 import { Input } from '@/components/ui/input';
-import {Button} from '../components/ui/button'
 import { Progress } from '@/components/ui/progress';
 import { Textarea } from '@/components/ui/textarea';
 import { Checkbox } from '@/components/ui/checkbox';
+import { Button } from '@/components/ui/button';
 
 export default function Home() {
   return (
